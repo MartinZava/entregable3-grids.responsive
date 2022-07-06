@@ -225,7 +225,8 @@ footer{
     }
     .nav{
         flex-direction: row;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
+        margin: 1em 0 1em 0
     }
     .nav__links {
         padding: 0.5em;
@@ -256,7 +257,8 @@ footer{
 
     .nav2{
         flex-direction: row;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
+        margin: 1em 0 1em 0
     }
 
     .gridGaleria1{
