@@ -251,7 +251,7 @@ footer{
         margin: 5% auto 10px auto;
     }
     img {
-        max-width: 400px;
+        max-width: 300px;
     }
 
     .nav2{
@@ -271,12 +271,6 @@ footer{
         gap: 10px;
         align-items: center;
     }
-
-
-
-
-
-
 
 
 }
